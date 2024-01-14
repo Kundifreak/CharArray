@@ -24,7 +24,7 @@ public class CharArray {
         for (int i = 0; i < freq.length; i++) {
             if (string[i] != ' ' && string[i] != '0') { // This wont count the spaces in the sentence
                 System.out.println(string[i] + "-" + freq[i]);
-            }
+            } // abc
 
         }
     }
